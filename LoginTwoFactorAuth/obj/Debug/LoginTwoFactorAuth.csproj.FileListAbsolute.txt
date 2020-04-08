@@ -1,0 +1,152 @@
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\LoginTwoFactorAuth.dll.config
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\LoginTwoFactorAuth.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\LoginTwoFactorAuth.pdb
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\csc.exe
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\csc.exe.config
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\csc.rsp
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\csi.exe
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\csi.exe.config
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\csi.rsp
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Console.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Security.Claims.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\vbc.exe
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\vbc.rsp
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\System.Web.Optimization.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\WebGrease.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\System.Web.Optimization.xml
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\obj\Debug\LoginTwoFactorAuth.csproj.CopyComplete
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\obj\Debug\LoginTwoFactorAuth.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\obj\Debug\LoginTwoFactorAuth.pdb
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\obj\Debug\LoginTwoFactorAuth.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\WcfServiceTFA.dll
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\WcfServiceTFA.pdb
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\WcfServiceTFA.dll.config
+C:\Users\ASUS\source\repos\test2factorAuth\LoginTwoFactorAuth\bin\QRCoder.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\LoginTwoFactorAuth.dll.config
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\LoginTwoFactorAuth.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\LoginTwoFactorAuth.pdb
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\csc.exe
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\csc.rsp
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\csi.exe
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\csi.rsp
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Security.Claims.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\vbc.exe
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\WcfServiceTFA.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\WebGrease.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\QRCoder.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\WcfServiceTFA.pdb
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\WcfServiceTFA.dll.config
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\bin\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\obj\Debug\LoginTwoFactorAuth.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\obj\Debug\LoginTwoFactorAuth.csproj.CopyComplete
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\obj\Debug\LoginTwoFactorAuth.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\LoginTwoFactorAuth\obj\Debug\LoginTwoFactorAuth.pdb

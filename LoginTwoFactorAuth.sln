@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginTwoFactorAuth", "LoginTwoFactorAuth\LoginTwoFactorAuth.csproj", "{9F594FC3-A741-4B31-9985-B42A3DE477E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceTFA", "WcfServiceTFA\WcfServiceTFA.csproj", "{097CB911-14DC-4838-92D0-4705B73EB983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F594FC3-A741-4B31-9985-B42A3DE477E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F594FC3-A741-4B31-9985-B42A3DE477E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F594FC3-A741-4B31-9985-B42A3DE477E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F594FC3-A741-4B31-9985-B42A3DE477E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{097CB911-14DC-4838-92D0-4705B73EB983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097CB911-14DC-4838-92D0-4705B73EB983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097CB911-14DC-4838-92D0-4705B73EB983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097CB911-14DC-4838-92D0-4705B73EB983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14B96076-7604-4A38-96F7-1296A0BA7A21}
+	EndGlobalSection
+EndGlobal

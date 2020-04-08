@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\test2factorAuth\WcfServiceTFA\bin\WcfServiceTFA.dll.config
+C:\Users\ASUS\source\repos\test2factorAuth\WcfServiceTFA\bin\WcfServiceTFA.dll
+C:\Users\ASUS\source\repos\test2factorAuth\WcfServiceTFA\bin\WcfServiceTFA.pdb
+C:\Users\ASUS\source\repos\test2factorAuth\WcfServiceTFA\obj\Debug\WcfServiceTFA.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\test2factorAuth\WcfServiceTFA\obj\Debug\WcfServiceTFA.dll
+C:\Users\ASUS\source\repos\test2factorAuth\WcfServiceTFA\obj\Debug\WcfServiceTFA.pdb
+C:\Users\ASUS\source\repos\test2factorAuth\WcfServiceTFA\bin\QRCoder.dll
+C:\Users\ASUS\source\repos\test2factorAuth\WcfServiceTFA\bin\System.Drawing.Common.dll
+C:\Users\ASUS\source\repos\test2factorAuth\WcfServiceTFA\obj\Debug\WcfServiceTFA.csproj.CopyComplete
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\WcfServiceTFA\bin\WcfServiceTFA.dll.config
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\WcfServiceTFA\bin\WcfServiceTFA.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\WcfServiceTFA\bin\WcfServiceTFA.pdb
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\WcfServiceTFA\bin\QRCoder.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\WcfServiceTFA\bin\System.Drawing.Common.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\WcfServiceTFA\obj\Debug\WcfServiceTFA.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\WcfServiceTFA\obj\Debug\WcfServiceTFA.csproj.CopyComplete
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\WcfServiceTFA\obj\Debug\WcfServiceTFA.dll
+C:\Users\ASUS\Documents\Projects git ++\LoginTwoFactorAuth\WcfServiceTFA\obj\Debug\WcfServiceTFA.pdb
